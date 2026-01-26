@@ -3,6 +3,7 @@
 ### Integrantes:
 
 - Luis Sanchez Zamora
+- Edgar A. Valdés A.
 
 ### Descripción:
 
